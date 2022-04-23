@@ -1,0 +1,4 @@
+2022-04-23 19:29:30,242 INFO org.springframework.boot.StartupInfoLogger [main] Starting LogsApplication using Java 16.0.1 on Caios-MacBook-Pro.local with PID 49786 (/Users/caiobessa/sources/spring-certification-study/logs/target/classes started by caiobessa in /Users/caiobessa/sources/spring-certification-study/logs)
+2022-04-23 19:29:30,258 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-04-23 19:29:31,554 INFO org.springframework.boot.StartupInfoLogger [main] Started LogsApplication in 3.427 seconds (JVM running for 5.496)
+2022-04-23 19:29:31,568 INFO com.caiobessa.logs.LogsApplication [main] MY INFO LOG TEST
