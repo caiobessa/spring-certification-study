@@ -1,0 +1,21 @@
+{
+  "name": "jvm.memory.max",
+  "description": "The maximum amount of memory in bytes that can be used for memory management",
+  "baseUnit": "bytes",
+  "measurements": [
+    {
+      "statistic": "VALUE",
+      "value": 2147483646
+    }
+  ],
+  "availableTags": [
+    {
+      "tag": "id",
+      "values": [
+        "G1 Old Gen",
+        "G1 Survivor Space",
+        "G1 Eden Space"
+      ]
+    }
+  ]
+}
